@@ -28,5 +28,6 @@
     "tailwindcss": {
       "callees": ["cx"]
     }
-  }
+  },
+  "ignorePatterns": ["src/components/ui/**", "src/hooks/use-mobile.tsx", "src/hooks/use-toast.ts"]
 }
